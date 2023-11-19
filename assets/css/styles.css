@@ -1,0 +1,7 @@
+header {
+    background: url('/assets/img/fondo-headerr.jpg') center/cover; /* Cambia la ruta según la ubicación de tu imagen */
+    color: #ff0000;
+    text-align: center;
+    padding: 50px;
+
+}
